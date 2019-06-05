@@ -1,2 +1,4 @@
 # Front-end-web-project
-Front end final project
+ Website about Thailand's culture,food,languages and people.
+ 
+ Written in HTML,CSS and JS.
